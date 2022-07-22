@@ -21,7 +21,7 @@ class GradeTable extends Component {
             <React.Fragment>
                 <div className="col-12 col-sm-12 col-md-12 col-lg-9 col-xl-9 pl-4">
                     <table className="table table-dark table-striped table-borderless table-hover">
-                        <caption className="pl-2">Student Grade Table by Brandon Pham</caption>
+                        <caption className="pl-2">Student Grade Table by Brandon Pham </caption>
                         <thead className="bg-success">
                             <tr>
                                 <th scope="col">Student Name</th>
